@@ -1,4 +1,17 @@
-# The Great Suspender
+# Rip Van Winkle
+
+| :warning:&nbsp;&nbsp;**Code has not yet been scrubbed** |
+| --- |
+| Read below! This will go away after review of code. |
+
+It seems that The Great Suspender is not really trustworthy any more. :'( I have forked it with the intention of removing any un-trustworthy bits for my own personal use. I may, from time to time, add features. I am, however, NOT going to be maintaining this as an active project outside of my own personal use. If others do want to use it, feel free! I will also not be maintaining a Chrome Web Store version. This is a 100% compile-it-yourself project. (I suppose in that regard this also means that you know what you are getting, as the source code is all here for quick review -- as opposed to being hidden and compressed in a package deep within the bowels of your filesystem.)
+
+Happy sleeping!
+
+# Original README
+(Minus the bit about the Chrome Web Store.)
+
+## The Great Suspender
 
 <img src="/src/img/suspendy-guy.png" width="100px" />
 
@@ -8,14 +21,6 @@ If you have suggestions or problems using the extension, please [submit a bug or
 
 **If you have lost tabs from your browser:** I have written a guide for how to recover your lost tabs [here](https://github.com/deanoemcke/thegreatsuspender/issues/526
 ).
-
-### Chrome Web Store
-
-The Great Suspender is [available via the official Chrome Web Store](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg).
-
-Please note that the webstore version may be behind the latest version here. That is because I try to keep webstore updates down to a minimum due to their [disruptive effect](https://github.com/greatsuspender/thegreatsuspender/issues/526).
-
-For more information on the permissions required for the extension, please refer to this gitHub issue: (https://github.com/greatsuspender/thegreatsuspender/issues/213)
 
 ### Install as an extension from source
 
